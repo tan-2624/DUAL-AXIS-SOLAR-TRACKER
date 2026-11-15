@@ -51,4 +51,9 @@ This was a group project. Contributors listed in the report:
 - V. Lokesh
 - Vardhaan Gaikwad
 
+  ## Prototype
+
+![Solar tracker prototype, front view](tracker-front.jpg)
+![Solar tracker prototype, side view](tracker-side.jpg)
+
 
