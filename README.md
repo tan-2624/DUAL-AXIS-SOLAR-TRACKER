@@ -2,7 +2,6 @@
 
 An Arduino-based prototype that uses four light-dependent resistors (LDRs) to locate a brighter light source and adjust its orientation along horizontal and vertical axes.
 
-> This prototype demonstrates light tracking with a mobile flashlight. The report does not include measured solar-panel energy gains or completed quantitative observation tables.
 
 ## How It Works
 
